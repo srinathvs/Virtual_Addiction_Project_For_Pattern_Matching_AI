@@ -1,0 +1,2 @@
+name,symptoms_shown,selfesteem,depression,need_validation,anxiety,loneliness,satisfaction,stress,reasonlist,disorderlist
+Srinath,1,0.1,0.1,0.1,0.1,0.1,0.1,0.1, (work|studies)->depression,{}
